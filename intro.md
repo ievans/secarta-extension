@@ -30,4 +30,4 @@ This extension requests access to read and modify www.github.com for the purpose
 ## Beta & Telemetry Disclaimer
 This extension is in beta and contains a number of product experiments, so we collect telemetry to understand use and decide what to work on next. This telemetry contains a minimal amount of identifying information (your GitHub username, client IP address, and a unique installation ID that is local to your browser). If you have concerns about your privacy or how we use telemetry, please let us know!
 
-We want your thoughts and ideas! Reach out to us via our Beta Slack room or via feedback@ret2.co 😍
+We want your thoughts and ideas! Reach out to us via our Beta Slack room or via feedback@ret2.co
