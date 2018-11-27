@@ -12,7 +12,7 @@ Preflight makes it fast and simple for you to make decisions about using npm pac
 
 If any of our checks come back with concerning answers we'll notify you through a modified GitHub UI, letting you investigate and focus on the stuff that's abnormal about a project.
 
-## Preflight Checks
+## Preflight Checklist
 * **Permissions:** What can it do? what resources does it use? Can it be used as a common attack vector?
 * **Popularity & Usage:** Downloads, orgs that use, prominent authors that use
 * **Development Activity:** test coverage, commit / issue acvitity, maintainers, release candence
